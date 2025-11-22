@@ -1,0 +1,17 @@
+{
+    "name": "Victor Alex Alcantara | Software Development",
+    "short_name": "VictorCodex",
+    "description": "Portafolio de Victor Alex Alcantara, desarrollador Full Stack especializado en aplicaciones web escalables.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#F97316",
+    "icons": [
+      {
+        "src": "/logo.svg",
+        "sizes": "any",
+        "type": "image/svg+xml",
+        "purpose": "any maskable"
+      }
+    ]
+}
